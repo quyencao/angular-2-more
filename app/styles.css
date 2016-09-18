@@ -1,0 +1,11 @@
+.ng-touched.ng-invalid {
+    border: 1px solid #F44336;
+}
+
+.ng-touched.ng-valid { 
+    border: 1px solid #4CAF50;
+}
+
+textarea {
+    resize: none
+}
